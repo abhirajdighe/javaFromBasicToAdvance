@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e9de5097-f09e-4a33-8808-44384d6b079e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/JavaDsa/1_patternProblems/1_patternProblems.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDsa/2_arrayAnd2dArray/2_arrayAnd2dArray.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDsa/stringBuilder/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDsa/stringBuilder/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDsa/stringBuilder/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDsa/stringBuilder/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDsa/stringBuilder/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDsa/stringBuilder/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDsa/stringBuilder/src/reverseString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDsa/stringBuilder/src/stringBuilderClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDsa/stringBuilder/stringBuilder.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaLearning/2_StingClassAndPrinting/2_StingClassAndPrinting.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaLearning/3_conditionalStatement/3_conditionalStatement.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaLearning/4_loops/4_loops.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaLearning/5_arrayPractice/5_arrayPractice.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaLearning/6_methods/6_methods.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaLearning/7_basicsOfOops/7_basicsOfOops.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaLearning/inheritance/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaLearning/inheritance/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaLearning/inheritance/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaLearning/inheritance/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaLearning/inheritance/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaLearning/inheritance/inheritance.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaLearning/inheritance/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaLearning/inheritance/src/inheritanceAdvance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaLearning/inheritance/src/inheritanceExample.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2lpLYlm15lPOd79kKsenTLveivS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/javaFromBasicToAdvance/javaLearning/8_inheritance"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9de5097-f09e-4a33-8808-44384d6b079e" name="Changes" comment="" />
+      <created>1725872120106</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725872120106</updated>
+    </task>
+    <servers />
+  </component>
+</project>
