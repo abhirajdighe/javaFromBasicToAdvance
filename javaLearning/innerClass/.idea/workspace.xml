@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab649c77-6b75-4db4-aebd-9367270659aa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../JavaDsa/5_binarySearchQuestions/src/pivoteElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/javaFromBasicToAdvance.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JavaDsa/stringBuilder/.idea/workspace.xml" beforeDir="false" />
-    </list>
+    <list default="true" id="ab649c77-6b75-4db4-aebd-9367270659aa" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,9 +20,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2ly9OgI2XKGhywZTk82TBdM9Reb" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -48,6 +40,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/javaFromBasicToAdvance",
     "onboarding.tips.debug.path": "D:/javaFromBasicToAdvance/javaLearning/innerClass/src/Main.java"
   }
 }]]></component>
