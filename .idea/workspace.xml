@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9c32dc54-a553-49ac-912d-38fadb5b91a6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/javaFromBasicToAdvance.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDsa/1_patternProblems/1_patternProblems.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDsa/2_arrayAnd2dArray/2_arrayAnd2dArray.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDsa/3_searchingInArray/3_searchingInArray.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDsa/4_stringBuilder/4_stringBuilder.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaDsa/5_binarySearchQuestions/5_binarySearchQuestions.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaLearning/10_interface/10_interface.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaLearning/11_innerClass/11_innerClass.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaLearning/1_operators/1_operators.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaLearning/2_StingClassAndPrinting/2_StingClassAndPrinting.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaLearning/3_conditionalStatement/3_conditionalStatement.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaLearning/4_loops/4_loops.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaLearning/5_arrayPractice/5_arrayPractice.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaLearning/6_methods/6_methods.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaLearning/7_basicsOfOops/7_basicsOfOops.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaLearning/8_inheritance/8_inheritance.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaLearning/9_abstractClass/9_abstractClass.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2m9FhgHXfUSB1eI7bnYLAzNPzdp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/javaFromBasicToAdvance/JavaDsa/5_binarySearchQuestions"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c32dc54-a553-49ac-912d-38fadb5b91a6" name="Changes" comment="" />
+      <created>1726481007102</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726481007102</updated>
+    </task>
+    <servers />
+  </component>
+</project>
