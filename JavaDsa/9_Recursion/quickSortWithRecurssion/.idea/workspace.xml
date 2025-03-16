@@ -1,56 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e4470da-ecf4-4d51-b5c6-97852146675a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/quickSortWithRecursion.java" afterDir="false" />
-    </list>
+    <list default="true" id="2330895d-1351-420d-81a3-32b005a68d1d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 1
-}</component>
-  <component name="ProjectId" id="2uOGbmdidmZmuKdysEM7Am2miZv" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2uOGfPP2l2g6TW1kOFBzAt3FSCF" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.quickSortWithRecursion.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/javaFromBasicToAdvance/JavaDsa/9_Recursion/Day 6",
-    "onboarding.tips.debug.path": "D:/javaFromBasicToAdvance/JavaDsa/9_Recursion/Day 6/src/Main.java"
+    "onboarding.tips.debug.path": "D:/javaFromBasicToAdvance/JavaDsa/9_Recursion/quickSortWithRecurssion/src/Main.java"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7e4470da-ecf4-4d51-b5c6-97852146675a" name="Changes" comment="" />
-      <created>1742112282144</created>
+      <changelist id="2330895d-1351-420d-81a3-32b005a68d1d" name="Changes" comment="" />
+      <created>1742112310631</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1742112282144</updated>
+      <updated>1742112310631</updated>
     </task>
     <servers />
   </component>
